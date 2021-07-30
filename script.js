@@ -3,7 +3,7 @@
     btn.addEventListener("click", () => {
         document.body.background = randomBg();
 
-        console.log(randomBg());
+     
     });
 
     function randomBg() {
